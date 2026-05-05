@@ -1,5 +1,5 @@
 {
-    "name": "gihovani/magento2-toastmessage",
+    "name": "webguru-pt/magento2-toastmessage",
     "description": "Modulo para transformar as mensagens da loja Magento2 em Toaster",
     "require": {
         "php": ">=7.4"
